@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Recipe-Generation-from-Food-Image.svg?cache=remove)
 
 # Recipe-Generation-from-Food-Image
@@ -47,3 +48,6 @@ Download these files and replace it with the files in this folder "Foodimg2Ing/d
 You will be getting a localhost link and open that link in your browser 
 
 
+=======
+# Recipe-generation-uploads-a-food-image
+>>>>>>> 79935e3ee81481ab71a3686a8373fe76d7ee72f3
